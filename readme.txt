@@ -1,0 +1,5 @@
+These .m files were written to calculate the projection age to Marine20, along with 2 sigma error ellipses, of oceanic radiocarbon data with a known calendar age. You can also determine the projection age to another calibration curve by simply replacing the marine20.m file.
+
+The Projection_Age.m file was written by Tianyu Chen (tianyuchen@nju.edu.cn). Please feel free to modify and distribute the script. However, if you utilize the code for performing projection age calculations, kindly cite the original publication (Chen et al., 2023, "Radiocarbon evidence for the stability of polar ocean overturning during the Holocene").
+
+You can go to Plot_projection_age.m and execute the script as an example. The resulting plot will display the projection ages of Burdwood Bank deep-sea coral record at water depth of 1879 m.
